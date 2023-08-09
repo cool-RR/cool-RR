@@ -1,5 +1,9 @@
-I'm Ram. I'm a long-time software developer and open-source activist from Tel Aviv, Israel. Almost all of my work is in Python. On my GitHub page you'll find a bunch of open-source projects I've authored or contributed to over the years.
+I'm Ram, an AI Safety researcher with a background in software engineering.
 
-Right now I'm working on research in machine learning, specifically in the field of [multi-agent reinforcement learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning). This research is the most interesting thing I've ever done. The goal is to improve AI safety by making an AI that's capable of understanding social behavior and ethical issues. 
+I'm applying multi-agent reinforcement learning to AI Safety. I want to ensure that Artificial Intelligence will benefit human society rather than hurt it. I'm addressing both short-term consequences of existing AI tools such as LLMs and long-term existential risk imposed by the potential development of Artificial General Intelligence.
 
-Please check out my research site for lots of information about it: http://r.rachum.com
+I propose to solve the problem of AI Safety by improving the social behavior of AI agents. Most AI research is focused on getting AI agents to solve bigger and more complex problems in the most efficient way possible; my research is focused on achieving cooperation, reciprocity and teamwork between AI agents.
+
+My strategy is to distill lessons from the study of animal and human societies and apply them to AI agents.
+
+Read more about my research here: https://r.rachum.com
